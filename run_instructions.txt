@@ -1,0 +1,4 @@
+python -m venv venv
+.\venv\Scripts\activate     # Windows
+pip install -r backend/requirements.txt
+python backend/app.py

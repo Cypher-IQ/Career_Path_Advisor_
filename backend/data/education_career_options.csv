@@ -1,0 +1,29 @@
+education_level,option_type,options
+3rd Class,Study Option,Continue primary school; NIOS Open Basic (elementary); NGO bridge-to-school programmes
+3rd Class,Career Option,"Agricultural labourer, domestic helper, daily-wage farm/field worker (informal rural jobs)"
+4th Class,Study Option,Complete primary schooling; NIOS Open Basic; vocational training via Jan Shikshan Sansthan; bridge courses
+4th Class,Career Option,"Farm labourer, household helper, daily wage worker (MNREGA, rural areas)"
+5th Class,Study Option,Continue school; special education support; basic vocational training
+5th Class,Career Option,"Household work, agricultural assistant, basic tailoring"
+6th Class,Study Option,Specialized academic support; private tuition; additional schooling options
+6th Class,Career Option,Assistant roles in various sectors; helper roles in local businesses
+7th Class,Study Option,Continue with general schooling; vocational training options
+7th Class,Career Option,"Retail assistant, junior office assistant, delivery roles"
+8th Class,Study Option,NIOS 10th enrolment; ITI courses; PMKVY training; SWAYAM online courses
+8th Class,Career Option,"Shop assistant, construction labourer, agriculture, NAPS apprenticeships"
+9th Class,Study Option,Prepare for 10th board exams; specialized coaching; skill development courses
+9th Class,Career Option,"Small business assistant, farmhand, retail work"
+10th Fail,Study Option,Retake 10th via NIOS; ITI; short-term skilling; PMKVY certification
+10th Fail,Career Option,"Factory helper, retail worker, housekeeping, MNREGA labour"
+10th Completed,Study Option,11th/12th regular or NIOS; Polytechnic diploma; B.Voc/B.A.Tech; PMKVY; education loans
+10th Completed,Career Option,"Railway Group D, GDS, Retail clerk, Hospitality jobs, NAPS apprentices"
+12th Completed,Study Option,"B.A, B.Sc, B.Com, BBA, BCA, B.Tech, Nursing, paramedical courses"
+12th Completed,Career Option,"Software tester, sales executive, customer support, govt jobs, teacher assistant"
+Diploma Fail,Study Option,Part-time/distance diploma completion; NSQF/PMKVY; RPL assessment
+Diploma Fail,Career Option,"Technician trainee, helper in workshops, operator jobs"
+Diploma Completed,Study Option,"Lateral B.Tech, B.Sc with bridge courses, CAD/CAM certifications, management diplomas"
+Diploma Completed,Career Option,"Junior engineer, site supervisor, lab technician, defence constable, pilot (after training)"
+Graduate (Bachelors) Completed,Study Option,"M.Tech, MBA, M.Sc, LLB, Postgraduate diplomas, foreign education"
+Graduate (Bachelors) Completed,Career Option,"Software engineer, data analyst, digital marketer, govt officer, startup founder"
+Postgraduate (Masters) Completed,Study Option,"PhD, M.Ed, clinical research, global fellowships"
+Postgraduate (Masters) Completed,Career Option,"Professor, research scientist, consultant, senior analyst, policy maker"
